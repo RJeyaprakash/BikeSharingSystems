@@ -7,8 +7,8 @@ To achieve this, BoomBikes hired a consulting firm to analyze factors influencin
 
 ## Table of Contents
 [Objectives]
-Conclusion
-Technologies used
+[Conclusion]
+[Technologies used]
 
 ### Objectives:
 The project involves modeling the demand for shared bikes using available independent variables. 
