@@ -35,7 +35,7 @@ Additionally, this model will provide insights into the demand dynamics of a new
 
 •	Sklearn
 
-•	statsmodels
+•	Statsmodels
 
 
  
