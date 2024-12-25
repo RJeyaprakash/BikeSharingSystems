@@ -6,7 +6,7 @@ BoomBikes, a US bike-sharing provider, has faced revenue declines due to the COV
 To achieve this, BoomBikes hired a consulting firm to analyze factors influencing shared bike demand in the American market. They want to identify significant variables impacting this demand and measure their predictive power. The company has collected extensive data on daily bike usage based on various factors.
 
 ## Table of Contents
-[Objectives] (#Objectives)
+-[Objectives] (#Objectives)
 Conclusion
 Technologies used
 
