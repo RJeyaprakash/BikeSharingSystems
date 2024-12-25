@@ -25,7 +25,7 @@ Additionally, this model will provide insights into the demand dynamics of a new
 •	**Temperature Impact**: The strong positive coefficient for temp (0.4895, p-value: 0.000) shows warmer temperatures significantly boost bike demand, ensuring adequate bike availability during warmer periods.
 
 ### Technologies used:
-•	Python
+•	*Python*
 •	Matplotlib
 •	Pandas
 •	Seaborn
