@@ -17,6 +17,7 @@ Additionally, this model will provide insights into the demand dynamics of a new
 
 ### Conclusion:
 •	**Seasonal Variation**: The positive coefficient for season (0.1352, p-value: 0.000) shows significant bike demand changes across seasons, guiding management to plan for higher demand in favorable seasons.
+
 •	**Yearly Trend**: The positive coefficient for yr (0.2356, p-value: 0.000) indicates increasing bike demand over time, suggesting growing popularity and informing long-term strategic planning.
 •	**Weather Conditions**: The negative coefficient for weathersit (-0.1830, p-value: 0.000) shows that adverse weather reduces bike demand, helping adjust operations during such conditions.
 •	**Temperature Impact**: The strong positive coefficient for temp (0.4895, p-value: 0.000) shows warmer temperatures significantly boost bike demand, ensuring adequate bike availability during warmer periods.
